@@ -1,0 +1,658 @@
+<html lang="it-IT" prefix="og: http://ogp.me/ns#" class="cmsms_html js flexbox flexboxlegacy canvas canvastext webgl touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/TANA_ORSO_LOGO_2017.png" type="image/x-icon">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.ristorantetanadorso.it/xmlrpc.php">
+
+
+<title>Eventi - Ristorante Tana d'Orso</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.ristorantetanadorso.it/?page_id=8941">
+<meta property="og:locale" content="it_IT">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Eventi - Ristorante Tana d'Orso">
+<meta property="og:url" content="https://www.ristorantetanadorso.it/?page_id=8941">
+<meta property="og:site_name" content="Ristorante Tana d'Orso">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Eventi - Ristorante Tana d'Orso">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Ristorante Tana d'Orso » Feed" href="https://www.ristorantetanadorso.it/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="Ristorante Tana d'Orso » Feed dei commenti" href="https://www.ristorantetanadorso.it/?feed=comments-rss2">
+<link rel="alternate" type="text/calendar" title="Ristorante Tana d'Orso » iCal Feed" href="https://www.ristorantetanadorso.it?post_type=tribe_events&amp;ical=1">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ristorantetanadorso.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.25"}};
+			!function(t,a,e){var r,i,n,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(n=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},i=0;i<n.length;i++)e.supports[n[i]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,56826,8203,55356,56819),0,0),e===o.toDataURL())?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55358,56794,8205,9794,65039),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55358,56794,8203,9794,65039),0,0),e!==o.toDataURL()}return!1}(n[i]),e.supports.everything=e.supports.everything&&e.supports[n[i]],"flag"!==n[i]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[n[i]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.ristorantetanadorso.it/wp-includes/js/wp-emoji-release.min.js?ver=4.8.25" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="layerslider-css" href="https://www.ristorantetanadorso.it/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.0.6" type="text/css" media="all">
+<link rel="stylesheet" id="ls-google-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.ristorantetanadorso.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.ristorantetanadorso.it/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.0.2" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="theme-style-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/style.css?ver=1.0.0" type="text/css" media="screen, print">
+<link rel="stylesheet" id="theme-adapt-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/adaptive.css?ver=1.0.0" type="text/css" media="screen, print">
+<link rel="stylesheet" id="theme-retina-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/retina.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="ilightbox-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/ilightbox.css?ver=2.2.0" type="text/css" media="screen">
+<link rel="stylesheet" id="ilightbox-skin-dark-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/ilightbox-skins/dark-skin.css?ver=2.2.0" type="text/css" media="screen">
+<link rel="stylesheet" id="isotope-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/jquery.isotope.css?ver=1.5.26" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-cmsms-woo-style-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/cmsms-woo-style.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-cmsms-woo-adaptive-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/cmsms-woo-adaptive.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-cmsms-events-style-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/cmsms-events-style.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-cmsms-events-adaptive-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/cmsms-events-adaptive.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-fonts-schemes-css" href="https://www.ristorantetanadorso.it/wp-content/uploads/cmsms_styles/montmartre.css?ver=1.0.0" type="text/css" media="screen">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='theme-fonts-css'  href='https://www.ristorantetanadorso.it/wp-content/uploads/cmsms_styles/montmartre_fonts.css?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='theme-schemes-primary-css'  href='https://www.ristorantetanadorso.it/wp-content/uploads/cmsms_styles/montmartre_colors_primary.css?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='theme-schemes-secondary-css'  href='https://www.ristorantetanadorso.it/wp-content/uploads/cmsms_styles/montmartre_colors_secondary.css?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="theme-icons-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/fontello.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="theme-icons-set-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/cmsms-theme-icons-set.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="animate-css" href="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/animate.css?ver=1.0.0" type="text/css" media="screen">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='theme-ie-css'  href='https://www.ristorantetanadorso.it/wp-content/themes/montmartre/css/ie.css?ver=1.0.0' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="cmsms-google-fonts-css" href="//fonts.googleapis.com/css?family=Raleway%3A300%2C400%2C500%2C600%2C700%7CMontserrat%3A400%2C700&amp;ver=4.8.25" type="text/css" media="all">
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0"></script><style></style>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.0.6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.0.6"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.0.6"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.0.2"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.0.2"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jsLibraries.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jquery.iLightBox.min.js?ver=2.2.0"></script>
+<meta name="generator" content="Powered by LayerSlider 6.0.6 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://www.ristorantetanadorso.it/index.php?rest_route=/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ristorantetanadorso.it/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ristorantetanadorso.it/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8.25">
+<meta name="generator" content="WooCommerce 2.6.14">
+<link rel="shortlink" href="https://www.ristorantetanadorso.it/?p=8941">
+<link rel="alternate" type="application/json+oembed" href="https://www.ristorantetanadorso.it/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fwww.ristorantetanadorso.it%2F%3Fpage_id%3D8941">
+<link rel="alternate" type="text/xml+oembed" href="https://www.ristorantetanadorso.it/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fwww.ristorantetanadorso.it%2F%3Fpage_id%3D8941&amp;format=xml">
+<!-- <meta name="NextGEN" version="3.0.1" /> -->
+<style type="text/css">
+	.header_top,
+	.header_top_outer,
+	.header_top_inner, 
+	.header_top_aligner {
+		height : 40px;
+	}
+	
+	.header_mid,
+	.header_mid_outer,
+	.header_mid .header_mid_inner .social_wrap,
+	.header_mid .header_mid_inner .social_but_wrap,
+	.header_mid .header_mid_inner .search_wrap_in_inner,
+	.header_mid .header_mid_inner .slogan_wrap_inner,
+	.header_mid .header_mid_inner .side_logo_nav_wrap,
+	.header_mid .header_mid_inner .logo,
+	.header_mid .header_mid_inner .resp_nav_wrap_inner {
+		height : 135px;
+	}
+	
+	.enable_logo_side #header.navi_scrolled .header_mid,
+	.enable_logo_side #header.navi_scrolled .header_mid_outer,
+	.enable_logo_side #header.navi_scrolled .header_mid .header_mid_inner .social_wrap,
+	.enable_logo_side #header.navi_scrolled .header_mid .header_mid_inner .social_but_wrap,
+	.enable_logo_side #header.navi_scrolled .header_mid .header_mid_inner .search_wrap_in_inner,
+	.enable_logo_side #header.navi_scrolled .header_mid .header_mid_inner .side_logo_nav_wrap,
+	
+	#header.navi_scrolled .search_wrap,
+	.navi_scrolled nav > div > ul,
+	.navi_scrolled nav > div > ul > li,
+	.navi_scrolled nav > div > ul > li > a,
+	.header_bot,
+	.header_line_wrap,
+	.header_line,
+	.search_but_align,
+	.header_bot_outer,
+	.enable_logo_side #header #navigation > li > a,
+	.header_bot .header_bot_inner nav > div > ul,
+	.header_bot .header_bot_inner nav > div > ul > li,
+	.header_bot .header_bot_inner nav > div > ul > li > a {
+		height : 60px;
+	}
+	
+	.enable_logo_side #header.navi_scrolled {
+		padding-top : 135px !important;
+	}
+	
+	#page .top_img_height {
+		height : 135px;
+	}
+	
+	#page.enable_header_top .top_img_height {
+		height : 175px;
+	}
+	
+	#page.enable_header_bottom .top_img_height {
+		height : 195px;
+	}
+	
+	#page.enable_header_top.enable_header_bottom .top_img_height {
+		height : 235px;
+	}
+	
+	#page.enable_header_top .error_inner, 
+	#page.enable_header_top .headline.cmsms_headline_disabled {
+		padding-top : 175px;
+	}
+	
+	#page.enable_header_bottom .error_inner, 
+	#page.enable_header_bottom .headline.cmsms_headline_disabled {
+		padding-top : 195px;
+	}
+	
+	#page.enable_header_top.enable_header_bottom .error_inner, 
+	#page.enable_header_top.enable_header_bottom .headline.cmsms_headline_disabled {
+		padding-top : 235px;
+	}@media only screen and (max-width: 1024px) {
+		.header_top,
+		.header_top_outer,
+		.header_top_inner,
+		.header_top_aligner,
+		.header_mid,
+		.header_mid_outer,
+		.header_mid .header_mid_inner .social_wrap,
+		.header_mid .header_mid_inner .social_but_wrap,
+		.header_mid .header_mid_inner .search_wrap_in_inner,
+		.header_mid .header_mid_inner .slogan_wrap_inner,
+		.header_mid .header_mid_inner .side_logo_nav_wrap,
+		.header_bot,
+		.header_line_wrap,
+		.header_line,
+		.search_but_align,
+		.header_bot_outer,
+		.enable_logo_side #header #navigation > li > a,
+		.header_bot .header_bot_inner nav > div > ul,
+		.header_bot .header_bot_inner nav > div > ul > li,
+		.header_bot .header_bot_inner nav > div > ul > li > a {
+			height : auto;
+		}
+		
+		#page.fixed_header #middle,
+		#page.fixed_header.enable_header_top #middle,
+		#page.fixed_header.enable_header_bottom #middle,
+		#page.fixed_header.enable_header_top.enable_header_bottom #middle {
+			padding-top : 0px !important;
+		}
+	}
+	
+	@media only screen and (max-width: 767px) {
+		.header_mid .header_mid_inner .resp_nav_wrap_inner {
+			height : auto;
+		}
+	}
+	#footer.cmsms_footer_default .footer_inner {
+		min-height:400px;
+	}
+	
+	.fixed_footer #main {
+		margin-bottom:400px;
+	}
+</style><meta name="generator" content="Powered by Slider Revolution 5.3.0.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+		<style type="text/css" id="wp-custom-css">
+			h3.widgettitle {
+	color: white;
+	font-weight: 600;
+}
+
+a#slide_top {
+    left: 20px;
+}
+
+.prenota-label-red, .prenota-label-black {
+    display: none;
+}		</style>
+		<meta name="ipg-site-status" content="WfKKpYv2zeAv0YCy3PyMaMf2vLtGIhiJ">
+</head>
+<body class="page-template-default page page-id-8941 tribe-js">
+	
+<!-- _________________________ Start Page _________________________ -->
+<div id="page" class="cmsms_responsive chrome_only cmsms_liquid fixed_header fixed_footer enable_header_bottom enable_logo_centered hfeed site">
+
+<div class="cmsms_dynamic_cart"><a href="javascript:void(0);" class="cmsms_dynamic_cart_button cmsms_theme_icon_basket"></a><div class="widget_shopping_cart_content">
+
+<ul class="cart_list product_list_widget ">
+
+	
+		<li class="empty">Nessun prodotto nel carrello.</li>
+
+	
+</ul><!-- end product list -->
+
+
+</div></div>
+<!-- _________________________ Start Main _________________________ -->
+<div id="main">
+<!-- _________________________ Start Header _________________________ -->
+<header id="header" style="opacity: 1;">
+		<div class="header_mid" data-height="135">
+		<div class="header_mid_outer">
+			<div class="header_mid_inner">
+				<div class="logo_wrap">
+<style type="text/css">
+	#header .header_mid .logo_wrap {
+		width : 340px;
+	}
+</style>
+<a href="https://www.ristorantetanadorso.it/" title="Ristorante Tana d'Orso" class="logo">
+	<img src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/TANA_ORSO_LOGO_2017.png" alt="Ristorante Tana d'Orso">
+<style type="text/css">
+	#header .header_mid .logo_wrap .logo .logo_retina {
+		width : 727.5px;
+	}
+</style>
+<img class="logo_retina" src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/TANA_ORSO_LOGO_2017.png" alt="Ristorante Tana d'Orso" width="727.5" height="288.5">
+</a>
+</div>
+					<div class="resp_nav_wrap">
+						<div class="resp_nav_wrap_inner">
+							<a class="responsive_nav cmsms_theme_icon_resp_nav" href="javascript:void(0);"></a>
+						</div>
+					</div>
+								<div class="cl"></div>
+			</div>
+		</div>
+	</div>
+	<div class="header_bot" data-height="60"><div class="header_bot_outer"><div class="header_bot_inner"><div class="header_line_wrap"><div class="header_line">
+<!-- _________________________ Start Navigation _________________________ -->
+<nav role="navigation">	<div class="menu-menu_principale-container"><ul id="navigation" class="navigation"><li id="menu-item-8777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8777 menu-item-depth-0"><a href="https://www.ristorantetanadorso.it/"><span class="nav_bg_clr"></span><span>Home</span></a></li>
+<li id="menu-item-9228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9228 menu-item-depth-0"><a href="https://www.ristorantetanadorso.it/?page_id=7318"><span class="nav_bg_clr"></span><span>Menù</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-9430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9430 menu-item-depth-1"><a href="https://www.ristorantetanadorso.it/?page_id=7318"><span>Menu del mese</span></a>	</li>
+	<li id="menu-item-9745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9745 menu-item-depth-1"><a href="https://www.ristorantetanadorso.it/?page_id=9740"><span>MENU’ NATALE 2026</span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-8953" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8941 current_page_item menu-item-has-children menu-item-8953 menu-item-depth-0"><a href="https://www.ristorantetanadorso.it/?page_id=8941"><span class="nav_bg_clr"></span><span>Eventi</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-8954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8954 menu-item-depth-1"><a href="https://www.ristorantetanadorso.it/?page_id=8926"><span>Matrimonio</span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-8775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8775 menu-item-depth-0"><a href="https://www.ristorantetanadorso.it/?page_id=6769"><span class="nav_bg_clr"></span><span>Gallery</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-9716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9716 menu-item-depth-1"><a href="https://www.ristorantetanadorso.it/?page_id=9712"><span>Galleria Video</span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-8776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8776 menu-item-depth-0"><a href="https://www.ristorantetanadorso.it/?page_id=6324"><span class="nav_bg_clr"></span><span>About</span></a></li>
+</ul></div>
+<div class="cl"></div></nav>
+<!-- _________________________ Finish Navigation _________________________ -->
+</div></div></div></div></div></header>
+<!-- _________________________ Finish Header _________________________ -->
+
+
+	<style type="text/css">
+		.top_img, 
+		.headline.cmsms_headline_disabled {
+			background-image:url(https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/IMG_2128.jpg);
+			background-repeat:no-repeat;
+			background-attachment:scroll;
+			background-size:cover;
+		}
+		
+		.headline_inner {
+			min-height:90px;
+		}
+	</style>
+	<div class="top_img cmsms_color_scheme_first">
+			<div class="top_img_height"></div>
+			<div class="headline">
+				<div class="headline_outer">
+					<div class="headline_color"></div>
+					<div class="headline_inner">
+						<div class="headline_table"><div class="headline_text"><h1 class="entry-title">Eventi</h1></div><div class="cmsms_breadcrumbs"><div class="cmsms_breadcrumbs_inner"><span>You are here: </span>
+		<a href="https://www.ristorantetanadorso.it" class="cms_home">Home</a>
+	<span class="breadcrumbs_sep"> / </span>
+	<span>Eventi</span></div></div></div>
+					</div>
+				</div>
+			</div>
+		</div>	
+<!-- _________________________ Start Middle _________________________ -->
+<div id="middle">
+<div class="middle_inner">
+<div class="content_wrap fullwidth">
+
+<!--_________________________ Start Content _________________________ -->
+<div class="middle_content entry" role="main">
+	</div></div><style type="text/css"> 
+#cmsms_row_6af2d49378c5a .cmsms_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsms_row_6af2d49378c5a .cmsms_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsms_divider_6af2d49378d34 { 
+	border-bottom-width:1px; 
+	border-bottom-style:solid; 
+	padding-top:50px; 
+	margin-bottom:50px; 
+} 
+ 
+#cmsms_row_6af2d49378d77 .cmsms_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsms_row_6af2d49378d77 .cmsms_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsms_heading_6af2d49379249 { 
+	text-align:left; 
+	margin-top:0px; 
+	margin-bottom:20px; 
+} 
+
+#cmsms_heading_6af2d49379249 .cmsms_heading { 
+	text-align:left; 
+} 
+
+#cmsms_heading_6af2d49379249 .cmsms_heading, #cmsms_heading_6af2d49379249 .cmsms_heading a { 
+	font-weight:normal; 
+	font-style:normal; 
+} 
+
+#cmsms_heading_6af2d49379249 .cmsms_heading_divider { 
+} 
+
+ 
+#cmsms_row_6af2d493792f5 .cmsms_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsms_row_6af2d493792f5 .cmsms_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsms_divider_6af2d493793bf { 
+	border-bottom-width:1px; 
+	border-bottom-style:solid; 
+	padding-top:50px; 
+	margin-bottom:50px; 
+} 
+ 
+#cmsms_row_6af2d493793f7 .cmsms_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsms_row_6af2d493793f7 .cmsms_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsms_heading_6af2d49379dd0 { 
+	text-align:left; 
+	margin-top:0px; 
+	margin-bottom:20px; 
+} 
+
+#cmsms_heading_6af2d49379dd0 .cmsms_heading { 
+	text-align:left; 
+} 
+
+#cmsms_heading_6af2d49379dd0 .cmsms_heading, #cmsms_heading_6af2d49379dd0 .cmsms_heading a { 
+	font-weight:normal; 
+	font-style:normal; 
+} 
+
+#cmsms_heading_6af2d49379dd0 .cmsms_heading_divider { 
+} 
+
+</style><div id="cmsms_row_6af2d49378c5a" class="cmsms_row cmsms_color_scheme_default" style="background-attachment: scroll;">
+<div class="cmsms_row_outer_parent">
+<div class="cmsms_row_outer">
+<div class="cmsms_row_inner">
+<div class="cmsms_row_margin cmsms_11">
+<div class="cmsms_column one_first">
+
+<div id="cmsms_divider_6af2d49378d34" class="cmsms_divider cmsms_divider_width_long cmsms_divider_pos_center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="cmsms_row_6af2d49378d77" class="cmsms_row cmsms_color_scheme_default" style="background-attachment: scroll;">
+<div class="cmsms_row_outer_parent">
+<div class="cmsms_row_outer">
+<div class="cmsms_row_inner">
+<div class="cmsms_row_margin cmsms_1323">
+<div class="cmsms_column one_third">
+<div class="aligncenter">
+<div class="cmsms_img  cmsms_image_c">
+<a href="https://www.ristorantetanadorso.it/?page_id=8926"><img src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/IMG_2128-300x225.jpg" alt=""></a>
+</div>
+</div>
+</div>
+<div class="cmsms_column two_third">
+
+<div id="cmsms_heading_6af2d49379249" class="cmsms_heading_wrap cmsms_heading_align_left">
+	<h1 class="cmsms_heading">Matrimoni</h1>
+</div><div class="cmsms_text">
+<p>Tana d’Orso con la sua incantevole ubicazione costituisce il luogo ideale per ricevimenti matrimoniali: immersa nello stupendo borgo di Mustonate offre una sala dedicata al ricevimento con la possibilità di utilizzare anche la corte esterna.</p>
+<p>Tranquillità e riservatezza sono garantiti dallo svolgimento di un unico ricevimento matrimoniale. Il nostro staff è a disposizione per la pianificazione di ogni parte del ricevimento.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="cmsms_row_6af2d493792f5" class="cmsms_row cmsms_color_scheme_default" style="background-attachment: scroll;">
+<div class="cmsms_row_outer_parent">
+<div class="cmsms_row_outer">
+<div class="cmsms_row_inner">
+<div class="cmsms_row_margin cmsms_11">
+<div class="cmsms_column one_first">
+
+<div id="cmsms_divider_6af2d493793bf" class="cmsms_divider cmsms_divider_width_long cmsms_divider_pos_center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="cmsms_row_6af2d493793f7" class="cmsms_row cmsms_color_scheme_default" style="background-attachment: scroll;">
+<div class="cmsms_row_outer_parent">
+<div class="cmsms_row_outer">
+<div class="cmsms_row_inner">
+<div class="cmsms_row_margin cmsms_1323">
+<div class="cmsms_column one_third">
+<div class="aligncenter">
+<div class="cmsms_img  cmsms_image_c">
+<img src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/IMG_1317_R-300x169.jpg" alt="">
+</div>
+</div>
+</div>
+<div class="cmsms_column two_third">
+
+<div id="cmsms_heading_6af2d49379dd0" class="cmsms_heading_wrap cmsms_heading_align_left">
+	<h1 class="cmsms_heading">Meeting &amp; Eventi</h1>
+</div><div class="cmsms_text">
+<p>Tana d’Orso è la location ideale per meeting ed eventi: immersa in una cornice naturale incantevole, è dotata di un apposita sala polivalente. E’ possibile infatti utilizzare la sala dedicata sia per la ristorazione con ben 150 coperti oppure utilizzarla in configurazione “conferenza” utilizzando l’impianto audio-video multimediale in dotazione.</p>
+<p>Due ampi parcheggi adiacenti al ristorante rendo Tana d’Orso il luogo ideale per l’organizzazione di raduni autobolistici.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="cl"></div><div class="content_wrap fullwidth">
+
+<div class="middle_content entry" role="main">
+	</div>
+<!-- _________________________ Finish Content _________________________ -->
+
+</div>
+</div>
+</div>
+<!-- _________________________ Finish Middle _________________________ -->
+
+
+<a href="javascript:void(0);" id="slide_top" class="cmsms_theme_icon_slide_top" style="display: none;"></a>
+</div>
+<!-- _________________________ Finish Main _________________________ -->
+
+<!-- _________________________ Start Footer _________________________ -->
+	<footer id="footer" role="contentinfo" class="cmsms_color_scheme_footer cmsms_footer_default">
+		<div class="footer_bg">
+			<div class="footer_inner">
+		<a href="https://www.ristorantetanadorso.it/" title="Ristorante Tana d'Orso" class="logo">
+	<img src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/TANA_ORSO_LOGO_2017_FOOTER.png" alt="Ristorante Tana d'Orso">
+<img class="footer_logo_retina" src="https://www.ristorantetanadorso.it/wp-content/uploads/2017/03/TANA_ORSO_LOGO_2017_FOOTER.png" alt="Ristorante Tana d'Orso" width="150" height="59.5">
+</a>
+<div class="footer_custom_html">Antico Borgo Srl, via Mottarone 43, 21100 Varese - Italia - P.Iva 04639530965 - N. REA VA-296918
+Tel. +39 0332 320.392 - Fax +39 0332 320.011 - E-mail info@ristorantetanadorso.it</div><span class="copyright">ERGASTERIO SRL © 2017 | All Rights Reserved</span>
+			</div>
+		</div>
+	</footer>
+<!-- _________________________ Finish Footer _________________________ -->
+
+</div>
+<!-- _________________________ Finish Page _________________________ -->
+
+<!-- ngg_resource_manager_marker --><script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-includes/js/comment-reply.min.js?ver=4.8.25"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/cmsms-mega-menu/js/jquery.megaMenu.js?ver=1.2.4"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Per favore dimostra che non sei un robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?page_id=8941&wc-ajax=%%endpoint%%","i18n_view_cart":"Vedi il carrello","cart_url":"","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.ristorantetanadorso.it/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//www.ristorantetanadorso.it/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?page_id=8941&wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.ristorantetanadorso.it/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="//www.ristorantetanadorso.it/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?page_id=8941&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.ristorantetanadorso.it/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.14"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jqueryLibraries.min.js?ver=1.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cmsms_script = {"theme_url":"https:\/\/www.ristorantetanadorso.it\/wp-content\/themes\/montmartre","site_url":"https:\/\/www.ristorantetanadorso.it\/","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"1","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jquery.script.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jquery.tweet.min.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cmsms_woo_script = {"currency_symbol":"\u20ac","thumbnail_image_width":"180","thumbnail_image_height":"180"};
+var cmsms_woo_script = {"thumbnail_image_width":"180","thumbnail_image_height":"180"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-content/themes/montmartre/js/jquery.cmsms-woo-script.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.ristorantetanadorso.it/wp-includes/js/wp-embed.min.js?ver=4.8.25"></script>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script type="text/javascript"> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","pagination":{"all":"All","next":"Prossimo","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["domenica","luned\u00ec","marted\u00ec","mercoled\u00ec","gioved\u00ec","venerd\u00ec","sabato"],"dayNamesShort":["dom","lun","mar","mer","gio","ven","sab"],"dayNamesMin":["D","L","M","M","G","V","S"],"monthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"monthNamesShort":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"nextText":"Successivo","prevText":"Precedente","currentText":"Oggi","closeText":"Fatto"}};/* ]]> */ </script><script type="text/css" id="tmpl-tribe_customizer_css">.tribe-events-list .tribe-events-loop .tribe-event-featured,
+				.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+					background-color: #0ea0d7;
+				}
+
+				#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-events-list-widget .tribe-event-featured,
+				.tribe-events-venue-widget .tribe-event-featured,
+				.tribe-mini-calendar-list-wrapper .tribe-event-featured,
+				.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+					background-color: rgba(14,160,215, .7 );
+					border-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+					background-color: #0ea0d7;
+				}</script><style type="text/css" id="tribe_customizer_css">.tribe-events-list .tribe-events-loop .tribe-event-featured,
+				.tribe-events-list #tribe-events-day.tribe-events-loop .tribe-event-featured,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap,
+				.type-tribe_events.tribe-events-photo-event.tribe-event-featured .tribe-events-photo-event-wrap:hover {
+					background-color: #0ea0d7;
+				}
+
+				#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-events-list-widget .tribe-event-featured,
+				.tribe-events-venue-widget .tribe-event-featured,
+				.tribe-mini-calendar-list-wrapper .tribe-event-featured,
+				.tribe-events-adv-list-widget .tribe-event-featured .tribe-mini-calendar-event {
+					background-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single {
+					background-color: rgba(14,160,215, .7 );
+					border-color: #0ea0d7;
+				}
+
+				.tribe-grid-body .tribe-event-featured.tribe-events-week-hourly-single:hover {
+					background-color: #0ea0d7;
+				}</style>
+
+</body></html>

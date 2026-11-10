@@ -1,0 +1,6 @@
+{
+  "name": "Ristorante Tana d'Orso - Varese",
+  "description": "Ristorante d'eccellenza nel suggestivo Borgo di Mustonate a Varese. Cucina lombarda e piemontese, carta dei vini di 250 etichette, eventi, matrimoni e prenotazione tavoli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
