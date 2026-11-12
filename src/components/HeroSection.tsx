@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Calendar, Sparkles, MapPin, Wine, UtensilsCrossed, Award } from 'lucide-react';
+import { ArrowRight, Calendar, Sparkles, Wine, UtensilsCrossed, Award, Play } from 'lucide-react';
 import { PageView } from '../types';
 
 interface HeroSectionProps {
@@ -10,16 +10,30 @@ interface HeroSectionProps {
 export const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate, onOpenReservation }) => {
   return (
     <section className="relative min-h-screen flex flex-col justify-between bg-[#0d0f12] text-[#EDE7DD] overflow-hidden pt-28 pb-12">
-      {/* Background with luxury dark overlay */}
-      <div className="absolute inset-0 z-0">
+      {/* Background with YouTube Video & Luxury Overlay */}
+      <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
+        {/* Base Fallback Image while video streams */}
         <img
           src="https://www.ristorantetanadorso.it/wp-content/uploads/2015/04/DSC_5699_700_701_702_703_tonemapped_R_BANNER.jpg"
           alt="Ristorante Tana d'Orso Borgo di Mustonate"
-          className="w-full h-full object-cover object-center brightness-40 scale-105 transition-transform duration-1000 ease-out"
+          className="absolute inset-0 w-full h-full object-cover object-center brightness-40"
           referrerPolicy="no-referrer"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#0d0f12] via-[#0d0f12]/60 to-[#0d0f12]/80" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(13,15,18,0.7)_100%)]" />
+
+        {/* YouTube Video Background (ID: 1DVY6Rqym0M) */}
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[177.78vh] min-w-full h-[56.25vw] min-h-full">
+          <iframe
+            className="w-full h-full object-cover pointer-events-none scale-110 opacity-75 transition-opacity duration-1000"
+            src="https://www.youtube-nocookie.com/embed/1DVY6Rqym0M?autoplay=1&mute=1&loop=1&playlist=1DVY6Rqym0M&controls=0&showinfo=0&rel=0&iv_load_policy=3&disablekb=1&modestbranding=1&playsinline=1"
+            title="Ristorante Tana d'Orso Video Experience"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            tabIndex={-1}
+          />
+        </div>
+
+        {/* Editorial Gradients for readability & cinematic depth */}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#0d0f12] via-[#0d0f12]/55 to-[#0d0f12]/75" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,transparent_0%,rgba(13,15,18,0.8)_100%)]" />
       </div>
 
       {/* Main Hero Content */}
@@ -28,8 +42,8 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate, onOpenRese
           {/* Editorial Kicker */}
           <div className="flex items-center gap-3">
             <span className="w-8 h-px bg-[#D1A066]" />
-            <span className="text-[11px] uppercase tracking-[0.3em] text-[#D1A066] font-medium font-sans">
-              Borgo di Mustonate · Varese · Dal 2005
+            <span className="text-[11px] uppercase tracking-[0.3em] text-[#D1A066] font-medium font-sans flex items-center gap-2">
+              <span>Borgo di Mustonate · Varese · Dal 2005</span>
             </span>
           </div>
 
